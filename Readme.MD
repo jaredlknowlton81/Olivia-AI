@@ -4,7 +4,7 @@ An open-source chatbot built for people, not platforms.
 
 Olivia is an open-source chatbot project exploring a different approach to conversational AI:
 
-free, transparent, extensible, and designed to grow with the people who use it.
+Free, transparent, extensible, and designed to grow with the people who use it.
 
 The goal is simple:
 
